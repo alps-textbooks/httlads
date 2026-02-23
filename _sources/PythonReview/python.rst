@@ -405,7 +405,7 @@ There are a few things to notice here. After the user types in their name after 
 ``your_name`` variable. Since we can store the users' answers in variables, we can instruct users for their input and 
 incorporate it in the future. For example, we can use the information that the user provided above and use it. 
 
-.. code:: python 3
+.. code:: python3
 
    case your name " + your_name.lowercase() + " or uppercase your name " + your_name.uppercase())
 
