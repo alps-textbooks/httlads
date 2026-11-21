@@ -176,7 +176,7 @@ operations. Refer to Table 2 below.
 Aside from the sequential operations, strings also have their own set of methods. Below are some of the most prevelant string 
 methods used in this course.
 
-.. _tab_stringmethods:
+.. _tab_stringmethods_python_review_new:
 
 .. table:: **Table 3: Operations on Any String in Python**
 
@@ -414,7 +414,7 @@ list.
 
 You can also perform a variety of operations on lists.
 
-.. _tab_listmethods:
+.. _tab_listmethods_python_review_new:
 
 .. table:: **Table 4: Operations on Any List in Python**
 

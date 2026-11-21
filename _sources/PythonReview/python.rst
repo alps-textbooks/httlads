@@ -278,7 +278,7 @@ Notice that the slicing grabbed element 0 and element 1 but not element 2. Slici
 a certain index up to, but not including, another index.
 
 
-.. _tab_listmethods:
+.. _tab_listmethods_python:
 
 .. table:: **Table 3: Methods Provided by Lists in Python**
 
@@ -331,7 +331,7 @@ Unlike lists, which you will see next, strings are immutable. This means...
 The location of the value is in your computer's memory.
 -------------------------------------------------------------------------------------------------------------
 
-.. _tab_stringmethods:
+.. _tab_stringmethods_python:
 
 .. table:: **Table 4: Methods Provided by Strings in Python**
 
