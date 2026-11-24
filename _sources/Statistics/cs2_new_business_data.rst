@@ -57,7 +57,7 @@ like ``AVERAGEIF`` and ``COUNTIF``, but they allow for more conditions. In our c
    What is the easiest country to start a business in the Americas?
 
    - :Canada: Is the correct answer!
-      :x: Incorrect. Try using the functions one at a time in different cells before combining them.
+     :x: Incorrect. Try using the functions one at a time in different cells before combining them.
 
 
 Joining Data from Other Sources When Considering Starting a New Business
